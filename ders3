@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>3.DERS</title>
+</head>
+<body>
+<img src="resimler/indir.jpg"  width="300"   height="300" title="naruto uzumaki" alt="naruto"><br/>
+<img src="resimler/sasuke.jpg" width="300" height="300" border="2"  alt="sasuke">
+
+
+</body>
+</html>
