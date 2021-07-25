@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>DERS 8</title>
+</head>
+<body>
+<table border="2" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td colspan="3" height="218" background="resimler/ak.jpg">
+<img src="resimler/arkaplan.jpg">
+</td>
+</tr>
+
+
+<tr>
+<td width="170" height="600">
+<table width="228" border="0">
+<tr><td height="25" bgcolor="#FF0000"><a href="ders1.html "target="cerceve">DERS1<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders2.html "target="cerceve">DERS2<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders3.html "target="cerceve">DERS3<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders32.html "target="cerceve">DERS3,2<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders4.html "target="cerceve">DERS4<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders5.html "target="cerceve">DERS5<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders6.html "target="cerceve">DERS6<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders7.html "target="cerceve">DERS7<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders9.html "target="cerceve">DERS9<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders10.html "target="cerceve">DERS10<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders11.html "target="cerceve">DERS11<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders12.html "target="cerceve">DERS12<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders13.html "target="cerceve">DERS13<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders14.html "target="cerceve">DERS14<a/></td></tr>
+<tr><td height="25" bgcolor="#FF0000"><a href="ders15.html "target="cerceve">DERS15<a/></td></tr>
+
+
+
+
+
+
+</table>
+</td>
+<td width="700">
+<iframe width="700"  height="600" frameborder="0" name="cerceve" src="kapakk.html" ></iframe>
+
+
+
+</td>
+</tr>
+
+<tr>
+<td colspan="200" height="200" background="resimler/arkaplan.jpg"></td>
+
+</table>
+</html>
